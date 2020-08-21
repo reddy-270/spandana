@@ -1,0 +1,7 @@
+.img-fluid{
+	text-align: center;
+	padding: 25%;
+	background-image:url("frontpage.jpg");
+	background-size: cover;
+	color: white;
+}

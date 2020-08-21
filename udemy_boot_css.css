@@ -1,0 +1,48 @@
+html,body{
+	padding: 20px 15px 50px;
+	border-radius: 25px;
+	border-color: #ffb3d9;
+}
+.text{
+	text-align: center;
+	padding :6em;
+	border-color: #ffb3d9;
+	border-radius: 10px;
+}
+.htop{
+	text-align: center;
+	padding :4em 3em;
+	background-image:url("2799846.jpg");
+	background-size: cover;
+	color: white;
+}
+#about {
+	padding :5em;
+	background-image:url("2647593.jpg");
+	background-size: cover;
+}
+#about p,h1{
+	text-align: center;
+}
+.vedio{
+	width: 100%;
+}
+#Gift{
+	text-align: center;
+}
+#response{
+	background-image: cover;
+	background-image: url("2840228.jpg");
+}
+.card-img{
+  width:100%;
+  height:auto;
+}
+.story{
+	padding: 3em;
+	width: 100%;
+	height: auto;
+}
+#final{
+	padding: 3em;
+}
